@@ -115,7 +115,7 @@ Technical Documentation
   - [RFC 3030](https://tools.ietf.org/html/rfc3030), SMTP: Service Extensions for Transmission of Large and Binary MIME Messages
   - [RFC 3207](https://tools.ietf.org/html/rfc3207), SMTP: Service Extension for Secure SMTP over Transport Layer Security
   - [RFC 3461](https://tools.ietf.org/html/rfc3461), SMTP: Service Extension for Delivery Status Notifications
-  - [RFC 4954](https://datatracker.ietf.org/doc/html/rfc4954), SMTP: Service Extension for Authentication
+  - [RFC 4954](https://tools.ietf.org/html/rfc4954), SMTP: Service Extension for Authentication
   - [RFC 5321](https://tools.ietf.org/html/rfc5321), Simple Mail Transfer Protocol
   - [RFC 6531](https://tools.ietf.org/html/rfc6531), SMTP: Extension for Internationalized Email Addresses
 
