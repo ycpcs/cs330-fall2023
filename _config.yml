@@ -1,0 +1,7 @@
+baseurl: "//ycpcs.github.io/cs330-fall2022"
+markdown: kramdown
+highlighter: rouge
+coursename: "CS 330"
+
+kramdown:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
