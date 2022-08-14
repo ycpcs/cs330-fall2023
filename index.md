@@ -69,5 +69,5 @@ All information about the course will be posted here.
 * **Sept 16** - Chapter 1 [Homework](assign/homework1.html) Due
 * **Sept 02** - Wireshark Lab: [Getting Started](labs/files/Wireshark_Intro_v8.1.pdf) Due
 -->
-* **Aug 25** - Review Ethics Guide: [Ethics Guide](assign/assignment01.html) Due
+* **Aug 25** - Review Ethics Guide: [Ethics Guide](assign/assignment1.html) Due
 * **Aug 23** - Welcome back!
