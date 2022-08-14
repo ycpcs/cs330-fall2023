@@ -31,7 +31,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 7  | Oct 04 | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 |  
 > 7  | Oct 06 | **Exam 1** | CN: 1.1 - 3.8 | <!--[Study Guide](../exams/exam1_study_guide.html)-->
 > | | | |
-> 8  | Oct 11 | Fall Break |
+> 8  | Oct 11 | **NO CLASSES - Fall Break** |
 > 8  | Oct 13 | Exam 1 Review <!--& [Tree Letter Match](../labs/tlm.html) hints-->
 > | | | |
 > 9  | Oct 18 | Network Layer: [Overview, Router Architectures](slides/chapter_4.pdf) | CN: 4.1 - 4.2 |
