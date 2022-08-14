@@ -12,4 +12,4 @@ Read and sign the [Ethics](../assign/ethics.html) guide.
 
 ### Submit #
 
-Hard copy with your name and signature!
+Hard copy with your name, date and signature!

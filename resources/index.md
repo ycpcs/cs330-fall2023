@@ -28,7 +28,7 @@ traffic on Windows. *Retired on November 25, 2019.*
 - [netwag](http://www.cis.syr.edu/~wedu/seed/Labs/Lab_Setup/netw522/netwag-doc_html/) is a graphical front end for netwox.
   - netwox & netwag [Troubleshooting guide](docs\netwox.pdf).
 - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) is an open source Network Forensic Analysis Tool.
-- [tcptrace](http://www.tcptrace.org/) is a tool for analysis of TCP dump files.
+- [tcptrace](https://linux.die.net/man/1/tcptrace) is a tool for analysis of TCP dump files.
 
 Active Capture
 ------------------------------------
@@ -63,24 +63,6 @@ Network Spoofing
 - [Ettercap](https://www.ettercap-project.org/) is a man-in-the-middle tool designed to listen to network traffic between two devices.
 - [DNSMasq](https://thekelleys.org.uk/dnsmasq/doc.html) is designed to quickly set up basic network services, such as DNS and DHCP, so you don’t have to hassle with complex service configuration
 
-Password Crackers
-------------------------------------
-- [Hash Suite](https://hashsuite.openwall.net/) is a Windows program to test security of password hashes.
-- [John the Ripper](https://www.openwall.com/john/) is a fast Open Source password cracker.
-  - The official [repo](https://github.com/magnumripper/JohnTheRipper/).
-  - The [password hash file](http://contest-2012.korelogic.com/) bundle from the KoreLogic 2012 DEFCON challenge. Decompress with ```bzip2 -dk cmiyc_2012_password_hash_files.tar.bz2```.
-  - A large word list containing 1,493,677,782 words can be found at [crackstation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm).
-- [RainbowCrack](http://project-rainbowcrack.com/index.htm) crack hashes with rainbow tables.
-- [Ophcrack](https://ophcrack.sourceforge.io/) is a free Windows password cracker based on rainbow tables.
-- [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra) is one of the most widely used _online_ hacking tool.
-- [aircrack-ng](https://www.aircrack-ng.org/) is probably the best Wi-Fi hacking software available.
-- Forgot your windows password? Try [ntpasswd](http://pogostick.net/~pnh/ntpasswd/).
-
-Steganography
-------------------------------------
-- [OpenStego](https://www.openstego.com/) can hide any data within a cover file (e.g. images).
-- [Camouflage](http://camouflage.unfiction.com/) allows any file to be hidden within any other file.
-
 System Utilities
 ------------------------------------
 - [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/) is a suite of more than 70 freeware utilities used to monitor, manage and troubleshoot the Windows operating system.
@@ -99,7 +81,6 @@ Supplemental Material
 - [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital.
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#structs).
 
-
 Repositories
 -----------------------------------
 - [BIND 9](https://gitlab.isc.org/isc-projects/bind9) source code and issues.
@@ -114,7 +95,7 @@ References
 - [Assigned Internet Protocol Numbers](https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml)
 - [IEEE 802.3](http://www.ieee802.org/3/) - ETHERNET WORKING GROUP
 - [Internet Corporation for Assigned Names and Numbers](http://www.icann.org/)
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#structs)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html)
 
 Technical Documentation
 -----------------------------------
@@ -158,10 +139,10 @@ Technical Documentation
   - [RFC 8484](https://tools.ietf.org/html/rfc8484), DNS Queries over HTTPS (DoH)
 
 ##### FTP
-  - [RFC 959](https://datatracker.ietf.org/doc/html/rfc959), FILE TRANSFER PROTOCOL (FTP)
+  - [RFC 959](https://tools.ietf.org/html/rfc959), FILE TRANSFER PROTOCOL (FTP)
 
 ##### P2P
-  - [RFC 5694](https://datatracker.ietf.org/doc/html/rfc5694), Peer-to-Peer (P2P) Architecture
+  - [RFC 5694](https://tools.ietf.org/html/rfc5694), Peer-to-Peer (P2P) Architecture
 
 ##### TCP
   - [RFC 793](https://tools.ietf.org/html/rfc793), TCP v4
