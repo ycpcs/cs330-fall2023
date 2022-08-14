@@ -11,9 +11,9 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 >  Week    | Date     | Topic        | Readings   | Assignments                                  
 > -------- | -------- | ------------ | ---------- | -------------------------------------
 > 1 | Aug 23 | Introduction and Course Overview | | [Ethics](../assign/assignment1.html)
-> 1 | Aug 25 | [Chapter 1](slides/chapter_1.pdf) - Intro to Computer Networks and the Internet | CN: 1.1 - 1.4 | Wireshark Lab - [Getting Started](../labs/files/Wireshark_Intro_v8.1.pdf)
+> 1 | Aug 25 | [Intro](slides/chapter_1.pdf) to Computer Networks and the Internet | CN: 1.1 - 1.4 | Wireshark Lab - [Getting Started](../labs/files/Wireshark_Intro_v8.1.pdf)
 > | | | |
-> 2  | Aug 30 | [Chapter 1](slides/chapter_1.pdf) - Intro to Computer Networks and the Internet | CN: 1.4 - 1.8 |
+> 2  | Aug 30 | [Intro](slides/chapter_1.pdf) to Computer Networks and the Internet | CN: 1.4 - 1.8 |
 > 2  | Sept 01 | Application Layer: [Overview](slides/chapter_2.pdf) | CN: 2.1 | <!--Chapter 1 [Homework](../assign/homework1.html)-->
 > | | | |
 > 3  | Sept 06 | Application Layer: [HTTP](slides/chapter_2.pdf) | CN: 2.1 - 2.2 | Wireshark Lab - [HTTP](../labs/files/Wireshark_HTTP_v8.1.pdf)
