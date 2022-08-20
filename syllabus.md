@@ -80,7 +80,7 @@ Reading assignments
 
 Readings from your text book will be assigned throughout the semester. You will find the readings listed in the Course Schedule. <strong>You are encouraged to read the scheduled material before coming to class.</strong>
 
-Homework Assignments
+Homework, Labs and Assignments
 -----------------
 
 Homework assignments will be based on the lab activities performed during class and may include both written and programming components. High Level Design collaboration on homework assignments is encouraged, but each student must submit their own assignment solutions that demonstrate their understanding of the material.
