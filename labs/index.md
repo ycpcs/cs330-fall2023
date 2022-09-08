@@ -7,8 +7,8 @@ This page links to individual labs.
 
 >  Date   | Lab | File(s) | Points | Due
 > ------- | --- | ------- | ---- | ----
-> Aug 25 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 01
-> Sept 06 | Wireshark | [HTTP](files/Wireshark_HTTP_v8.1.pdf) | 100 | Sept 18
+> Aug 25 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 01, 2022
+> Sept 06 | Wireshark | [HTTP](files/Wireshark_HTTP_v8.1.pdf) | 100 | Sept 18, 2022
 
 <!--
 > Sept 13 | Wireshark | [DNS](files/Wireshark_DNS_v8.1.pdf) | 100 | Sept 23
