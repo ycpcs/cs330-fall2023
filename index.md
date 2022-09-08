@@ -65,9 +65,8 @@ All information about the course will be posted here.
 * **Sept 30** - Wireshark Lab: [UDP](labs/files/Wireshark_UDP_v8.1.pdf) Due (_Optional_)
 * **Sept 28** - Chapter 2 [Homework](assign/homework2.html) Due
 * **Sept 23** - Wireshark Lab: [DNS](labs/files/Wireshark_DNS_v8.1.pdf) Due
-
-* **Sept 16** - Chapter 1 [Homework](assign/homework1.html) Due
 -->
+* **Sept 20** - Chapter 1 [Homework](assign/homework1.html) Due
 * **Sept 18** - Wireshark Lab: [HTTP](labs/files/Wireshark_HTTP_v8.1.pdf) Due
 * **Sept 01** - Wireshark Lab: [Getting Started](labs/files/Wireshark_Intro_v8.1.pdf) Due
 * **Aug 25** - Review Ethics Guide: [Ethics Guide](assign/assignment1.html) Due
