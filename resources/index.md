@@ -79,7 +79,7 @@ Supplemental Material
 - [Interactive Exercises](http://gaia.cs.umass.edu/kurose_ross/interactive/)
 - [High Performance Browser Networking](https://hpbn.co/) is what every web developer should know about networking and web performance.
 - [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital.
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#structs).
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html)
 
 Repositories
 -----------------------------------
@@ -95,7 +95,6 @@ References
 - [Assigned Internet Protocol Numbers](https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml)
 - [IEEE 802.3](http://www.ieee802.org/3/) - ETHERNET WORKING GROUP
 - [Internet Corporation for Assigned Names and Numbers](http://www.icann.org/)
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html)
 
 Technical Documentation
 -----------------------------------
