@@ -20,7 +20,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 3  | Sept 08 | Application Layer: [HTTP](slides/chapter_2.pdf) | CN: 2.1 - 2.2 |
 > | | | |
 > 4  | Sept 13 | Application Layer: [SMTP & DNS](slides/chapter_2.pdf) | CN: 2.3 - 2.4 | Wireshark Lab - [DNS](../labs/files/Wireshark_DNS_v8.1.pdf)
-> 4  | Sept 15 | Application Layer: [P2P, CDN](slides/chapter_2.pdf) | CN: 2.5 - 2.6 | <!--[ftp capture](files/ftp.pcapng), client server vs P2P [xlsx](files/cs_vs_p2p.xlsx)-->
+> 4  | Sept 15 | Application Layer: [P2P, CDN](slides/chapter_2.pdf) | CN: 2.5 - 2.6 | [torrenting.pcap](files/torrenting.pcap)<!--[ftp capture](files/ftp.pcapng), client server vs P2P [xlsx](files/cs_vs_p2p.xlsx)-->
 > | | | |
 > 5  | Sept 20 | Transport Layer: [Design Issues](slides/chapter_3.pdf) | CN: 3.1 - 3.3 |
 > 5  | Sept 22 | Transport Layer: [UDP](slides/chapter_3.pdf) | CN: 3.2 - 3.3 | Wireshark Lab - [UDP](../labs/files/Wireshark_UDP_v8.1.pdf)<sup>*</sup>
