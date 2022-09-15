@@ -22,16 +22,16 @@ title: "Programming Lab - Introduction to Sockets"
   - The server sends the modified line out its socket to the client.
   - The client reads the modified line through its socket and prints the line on its standard output.
 
-###  Run the applications and answer the following questions:
-  - Suppose you run tcp_client before you run tcp_server.
+### Run the applications and answer the following questions:
+  - Suppose you run `tcp_client` before you run `tcp_server`.
     - What happens?
     - Why?
-  - Suppose you run udp_client before you run udp_server.
+  - Suppose you run `udp_client` before you run `udp_server`.
     - What happens?
     - Why?
   - What happens if you use different port numbers for the UDP client and UDP server sides?
   - What happens if you use different port numbers for the TCP client and TCP server sides?
-  - Run udp_server and udp_client – send a message. Run udp_client again (while udp_server is still running), but this time with a shorter message.
+  - Run `udp_server` and `udp_client` – send a message. Run `udp_client` again (while `udp_server` is still running), but this time with a shorter message.
     - What happens?
     - Why?
     - Fix it.
@@ -45,7 +45,7 @@ title: "Programming Lab - Introduction to Sockets"
     - What happens?  
     - Why?
  - _Extra Credit_ Experiment with the code, surprise me.
-    - Do not be afraid to explore and brake it. Learn form it.  
+    - Do not be afraid to explore and break it. Learn from it.  
 
 ### References
   - [Linux socket interface](https://linux.die.net/man/7/socket)
@@ -55,4 +55,4 @@ title: "Programming Lab - Introduction to Sockets"
   - [Netcat](http://netcat.sourceforge.net/) is a command line tool that connects to an arbitrary TCP or UDP port and allows you to send and receive data.
 
 ### Grading
-Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
+Post your report __including source__ in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.

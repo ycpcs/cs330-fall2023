@@ -10,6 +10,7 @@ This page links to individual labs.
 > Aug 25 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 01, 2022
 > Sept 06 | Wireshark | [HTTP](files/Wireshark_HTTP_v8.1.pdf) | 100 | Sept 18, 2022
 > Sept 13 | Wireshark | [DNS](files/Wireshark_DNS_v8.1.pdf) | 100 | Sept 25
+> Sept 15 | Programming Lab | [Introduction to Sockets](sockets_intro.html) | 200 | Oct 02
 
 <!--
 > Sept 21 | Wireshark | [UDP](files/Wireshark_UDP_v8.1.pdf) <sup>*</sup> | 75 | Sept 30
