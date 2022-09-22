@@ -35,16 +35,17 @@ title: "Programming Lab - Introduction to Sockets"
     - What happens?
     - Why?
     - Fix it.
-  - Update tcp_client, udp_client, tcp_server and udp_server to accept the **client and server** port numbers as an _user_ input.
-  - Update tcp_client and udp_client to accept the **server** IP Address as an _user_ input.
-  - Change the _send_msg_ in udp_client to allocate 5 bytes instead of 50. Run the udp_client and the udp_server – send a message with length more than 5.
+  - Update `tcp_client`, `udp_client`, `tcp_server` and `udp_server` to accept the **client and server** port numbers as an _user_ input.
+  - Update `tcp_client` and `udp_client` to accept the **server** IP Address as an _user_ input.
+  - Change the _send_msg_ in `udp_client` to allocate 5 bytes instead of 50. Run the `udp_client` and the `udp_server` – send a message with length more than 5.
     - What happens?
     - Why?
-  - Change the allocation size of _recv_msg_ in udp_client to 5 and rerun the client.
+  - Change the allocation size of _recv_msg_ in `udp_client` to 5 and rerun the client.
     - What do you expect will happen?
     - What happens?  
     - Why?
- - _Extra Credit_ Experiment with the code, surprise me.
+  - Update `tcp_server` to support multiple clients.
+  - _Extra Credit_ Experiment with the code and surprise me.
     - Do not be afraid to explore and break it. Learn from it.  
 
 ### References
