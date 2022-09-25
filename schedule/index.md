@@ -25,7 +25,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 5  | Sept 20 | Transport Layer: [Design Issues](slides/chapter_3.pdf) | CN: 3.1 - 3.3 | Chapter 2 [Homework](../assign/homework2.html)
 > 5  | Sept 22 | Transport Layer: [UDP](slides/chapter_3.pdf) | CN: 3.2 - 3.3 | Wireshark Lab - [UDP](../labs/files/Wireshark_UDP_v8.1.pdf)<sup>*</sup>
 > | | |
-> 6  | Sept 27 | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf) | CN: 3.4 | <!--Homework - [Reliable Data Transfer](../labs/rdt.html)-->
+> 6  | Sept 27 | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf) | CN: 3.4 | Homework - [Reliable Data Transfer](../labs/rdt.html)
 > 6  | Sept 29 | Transport Layer: [TCP](slides/chapter_3.pdf) | CN: 3.5 | Wireshark Lab - [TCP](../labs/files/Wireshark_TCP_v8.1.pdf)
 > | | | |
 > 7  | Oct 04 | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 |  

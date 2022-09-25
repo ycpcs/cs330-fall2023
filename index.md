@@ -64,6 +64,8 @@ All information about the course will be posted here.
 * **Oct 05** - Introduction to Sockets Lab: [sockets_intro](labs/sockets_intro.html) Due
 * **Sept 30** - Wireshark Lab: [UDP](labs/files/Wireshark_UDP_v8.1.pdf) Due (_Optional_)
 -->
+
+* **Oct 09** - Reliable Data Transfer Lab: [RDT](labs/rdt.html) Due  
 * **Oct 06** - Introduction to Sockets Lab: [sockets_intro](labs/sockets_intro.html) Due
 * **Oct 02** - Chapter 2 [Homework](assign/homework2.html) Due
 * **Sept 25** - Wireshark Lab: [DNS](labs/files/Wireshark_DNS_v8.1.pdf) Due
