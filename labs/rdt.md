@@ -13,6 +13,8 @@ Visit the Chapter 3 - _Go-Back-N Protocol_ Java applet at the companion [Web sit
 
 - Repeat the experiment, but now let all packets reach the destination and kill the first acknowledgment. Describe again what happens.
 
+- Have the source send five packets, and then pause the animation before any of the five packets reach the destination. Then kill the second packet and resume the animation. Describe what happens.
+
 - Finally, try sending six packets. What happens?
 
 ### Problem 2.
