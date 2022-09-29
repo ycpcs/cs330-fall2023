@@ -13,7 +13,7 @@ This page links to individual labs.
 > Sept 20 | Wireshark | [UDP](files/Wireshark_UDP_v8.1.pdf) <sup>*</sup> | 75 | Sept 30, 2022
 > Sept 22 | Programming Lab | [Introduction to Sockets](sockets_intro.html) | 150 | Oct 06, 2022
 > Sept 27 | Lab | [Reliable Data Transfer](rdt.html) | 75 | Oct 09, 2022
-
+> Sept 29 | Wireshark | [TCP](files/Wireshark_TCP_v8.1.pdf) and the [capture](files/tcp.pcapng) | 100 | Oct 16
 <!--
 > Sept 25 | Programming Lab | [Introduction to Sockets](sockets_intro.html) | 100 | Oct 05
 > Sept 28 | Lab | [Reliable Data Transfer](rdt.html) | 75 | Oct 07
