@@ -29,7 +29,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 6  | Sept 29 | Transport Layer: [TCP](slides/chapter_3.pdf) | CN: 3.5 | Wireshark Lab - [TCP](../labs/files/Wireshark_TCP_v8.1.pdf)
 > | | | |
 > 7  | Oct 04 | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 |  
-> 7  | Oct 06 | **Exam 1** | CN: 1.1 - 3.8 | <!--[Study Guide](../exams/exam1_study_guide.html)-->
+> 7  | Oct 06 | **Exam 1** | CN: 1.1 - 3.8 | [Study Guide](../exams/exam1_study_guide.html)
 > | | | |
 > 8  | Oct 11 | **NO CLASSES - Fall Break** |
 > 8  | Oct 13 | Exam 1 Review <!--& [Tree Letter Match](../labs/tlm.html) hints-->

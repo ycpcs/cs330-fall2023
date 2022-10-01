@@ -4,20 +4,19 @@ course_number: CS330
 title: "Exam 1 - Study Guide"
 ---
 
-Exam 1 - Oct 07, 2021
+Exam 1 - Oct 05, 2022
 -----------------------
 
 ### Study Guide:
 - Study the advantages and disadvantages of circuit and packet switching.   
-- Know the types of delays in routers.
-- Know how packet loss.
-- Recognize what TCP/IP Model layers are used by different computer/network devices. Review network slides and figures in textbook.
-- Know the layers of the TCP/IP network model used in switches, routers and computer hosts.
-- Know the difference between a dedicated link (Verizon) and shared link (Comcast) to an ISP.
+- Know all types of delays in routers.
+- Know how packet loss occur.
+- Recognize what TCP/IP Model layers are used by different computer/network devices - know the layers of the TCP/IP network model used in switches, routers and computer hosts.
+- Know the difference between a dedicated link and shared link to an ISP.
 - Know different security attacks and malware.
 - Identify the advantages and disadvantages of client-server and peer-to-peer networks.
-- Know what is a socket. Study slides and textbook.
-- Know about secure sockets layer (SSL), TCP and UDP services.
+- Know what is a socket, characteristics associated with UDP and TCP socket.
+- Know about different services TCP and UDP provide. How are those achieved.
 - Know about cookies.
 - Tell the benefits of single and distributed DNS servers.
 - Know the common protocol and ports for: dns, dns secure, ftp, http, http secure, imap, imap secure, pop3, pop3 secure, smtp, smtp secure:
@@ -36,9 +35,6 @@ Exam 1 - Oct 07, 2021
 Exams
 -----------------
 
-<strong>Exams will be open-book, closed-notes.</strong> They will last approximately 60 minutes and will be administered at the beginning of the class period.
-
-<strong>Exams may include a programming component.</strong> The last half of the class may be used for instruction and/or laboratory work.
-<strong>A total of three exams will be administered. The lowest scoring exam will be dropped!</strong>
-
+<strong>Exams will be open-book, open-notes.</strong> They will last the full class period.
+<strong>Exams may include a programming component.</strong>
 <strong>No make-up exams will be given without approval of the instructor prior to class unless proof of extreme emergency or illness is provided.</strong>
