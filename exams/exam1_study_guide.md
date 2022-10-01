@@ -36,5 +36,7 @@ Exams
 -----------------
 
 <strong>Exams will be open-book, open-notes.</strong> They will last the full class period.
+
 <strong>Exams may include a programming component.</strong>
+
 <strong>No make-up exams will be given without approval of the instructor prior to class unless proof of extreme emergency or illness is provided.</strong>
