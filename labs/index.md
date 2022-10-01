@@ -3,7 +3,8 @@ layout: default
 title: "Labs"
 ---
 
-This page links to individual labs. You __must__ include screenshots with your submission. 
+This page links to individual labs. You __must__ include screenshots with your submission.
+
 
 >  Date   | Lab | File(s) | Points | Due
 > ------- | --- | ------- | ---- | ----
