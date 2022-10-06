@@ -4,7 +4,7 @@ course_number: CS330
 title: "Exam 1 - Study Guide"
 ---
 
-Exam 1 - Oct 05, 2022
+Exam 1 - Oct 06, 2022
 -----------------------
 
 ### Study Guide:
