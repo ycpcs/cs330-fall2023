@@ -22,11 +22,14 @@ Modify _tcp_client_ and _tcp_server_ programs to play the word game: Three Lette
     - __Submit__ to submit a word to the server to see if the word is in the dictionary and if the substring exists in that word
     - __List__ to get all words in the dictionary that contain the current set of letters as a substring
     - __Quit__ to stop playing the game and print the client's current score
+  - No client buffers should be larger than __512 bytes__.
 
 ### Notes
 You will need to make some design decisions. (For example: How will you handle multiple clients? How will you keep the client score? Will you allow a client to continue making guesses after a List command has been given? What if a client sends a 2 or a 4-letter substring instead of a 3-letter one?). You should include in your documentation (see below) what these design decisions were and why you chose to handle them as you did. In addition, ALL code should be well documented -- you will lose points if it is not.
 
 Include comments in your source code indicating where, why, and how the original source code was modified. Also, include a README file, with instructions as to how your code is to be used.
+
+You may work on this assignment in pairs. If you work in pairs: Submit only ONE set of program files, making sure both names are on each.
 
 #### Code snippets
   - [tcp_client.c](files/tcp_client.c)
@@ -35,6 +38,7 @@ Include comments in your source code indicating where, why, and how the original
 ### References
   - [Linux socket interface](https://linux.die.net/man/7/socket)
   - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
+  - [Debugging with GDB](https://ftp.gnu.org/old-gnu/Manuals/gdb/html_node/gdb_toc.html)
   - Create a child process [fork](https://linux.die.net/man/2/fork)
 
 ### Testing
