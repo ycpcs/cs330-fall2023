@@ -14,7 +14,7 @@ This page links to individual labs. You **must** include screenshots with your s
 > Sept 22 | Programming Lab | [Introduction to Sockets](sockets_intro.html) | 150 | Oct 06, 2022
 > Sept 27 | Lab | [Reliable Data Transfer](rdt.html) | 75 | Oct 09, 2022
 > Sept 29 | Wireshark | [TCP](files/Wireshark_TCP_v8.1.pdf) and the [capture](files/tcp.pcapng) | 100 | Oct 16, 2022
-> Oct 13 | Programming Lab | Three Letter Match [tlm](tlm.md) | 200 | Oct 30
+> Oct 13 | Programming Lab | [Three Letter Match](tlm.md) | 200 | Oct 30
 
 <!--
 > Sept 25 | Programming Lab | [Introduction to Sockets](sockets_intro.html) | 100 | Oct 05
