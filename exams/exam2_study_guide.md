@@ -21,6 +21,7 @@ Exam 2 - Nov 16, 2021
 - Understand IP fragmentation and reassembly.
 - Why we have Intra-AS and Inter-AS routing?
 - Know how Traceroute uses ICMP to find path from one host to another.
+- Network Address Translation (NAT), Universal Plug and Play (UPnP), and SSDP.
 - Make sure you can do both routing algorithms – Link State Algorithms (Dijkstra) and distance vector (Bellman-Ford).
   - [Dijkstra's Algorithm](..\schedule\slides\dijkstra_algorithm.pdf)
   - [CS360: Bellman-Ford Algorithm](https://ycpcs.github.io/cs360-spring2019/lectures/lecture21.html)
