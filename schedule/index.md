@@ -41,7 +41,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 10 | Oct 27 | Network Layer: [Routing Algorithms](slides/chapter_5.pdf) & [Dijkstra's Algorithm](slides/dijkstra_algorithm.pdf) | CN: 5.1 - 5.2 |
 > | | | |
 > 11 | Nov 01 | Network Layer: [Internet Routing](slides/chapter_5.pdf) | CN: 5.3 - 5.4 |
-> 11 | Nov 03 | **Exam 2** | CN: 4.1 - 5.4 | <!--[Study Guide](../exams/exam2_study_guide.html)-->
+> 11 | Nov 03 | **Exam 2** | CN: 4.1 - 5.4 | [Study Guide](../exams/exam2_study_guide.html)
 > | | | |
 > 12 | Nov 08 | Exam 2 Review | |
 > 12 | Nov 10 | Link Layer: [Link Layer Functions](slides/chapter_6.pdf) | CN 6.1 - 6.3 |

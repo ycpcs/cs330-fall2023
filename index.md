@@ -65,6 +65,7 @@ All information about the course will be posted here.
 * **Sept 30** - Wireshark Lab: [UDP](labs/files/Wireshark_UDP_v8.1.pdf) Due (_Optional_)
 -->
 
+* **Nov 03** - Exam 2 [Study Guide](exams/exam2_study_guide.html)
 * **Oct 30** - Three Letter Match Lab: [TLM](labs/tlm.html) Due
 * **Oct 16** - Wireshark Lab 5: [TCP](labs/files/Wireshark_TCP_v8.1.pdf) and the [capture](labs/files/tcp.pcapng)
 * **Oct 09** - Reliable Data Transfer Lab: [RDT](labs/rdt.html) Due  
