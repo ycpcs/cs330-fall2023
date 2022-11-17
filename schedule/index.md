@@ -44,12 +44,12 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 11 | Nov 03 | **Exam 2** | CN: 4.1 - 5.4 | [Study Guide](../exams/exam2_study_guide.html)
 > | | | |
 > 12 | Nov 08 | Exam 2 Review | |
-> 12 | Nov 10 | Link Layer: [Link Layer Functions](slides/chapter_6.pdf) | CN 6.1 - 6.3 |
+> 12 | Nov 10 | Link Layer: [Link Layer Functions](slides/chapter_6.pdf) | CN 6.1 - 6.2 |
 > | | | |
-> 13 | Nov 15 | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf) | CN: 6.4 - 6.8 |
-> 13 | Nov 17 | _ping_ using RAW sockets | |
+> 13 | Nov 15 | Link Layer: [Multiple Access Links, ARP](slides/chapter_6.pdf) | CN: 6.3 - 6.4 |
+> 13 | Nov 17 | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf) | CN: 6.4 - 6.8 | | |
 > | | | |
-> 14 | Nov 22 |  _traceroute_ using RAW sockets | | <!--[Raw C Sockets](../labs/c-raw-sockets.html)-->
+> 14 | Nov 22 | _ping_ and _traceroute_ using RAW sockets | | <!--[Raw C Sockets](../labs/c-raw-sockets.html)-->
 > 14 | Nov 24 | **NO CLASS - Thanksgiving Break**
 > | | | |
 > 15 | Nov 29 |  Security in Computer Networks: [Cryptography, Encryption](slides/chapter_8.pdf) | CN: 8.1 - 8.3 |
