@@ -16,6 +16,7 @@ This page links to individual labs. You **must** include screenshots with your s
 > Sept 29 | Wireshark | [TCP](files/Wireshark_TCP_v8.1.pdf) and the [capture](files/tcp.pcapng) | 100 | Oct 16, 2022
 > Oct 13 | Programming Lab | [Three Letter Match](tlm.md) | 200 | Oct 30
 > Oct 25 | Wireshark | [DHCP](files/Wireshark_DHCP_v8.1.pdf) <sup>*</sup> | 75 | Nov 06
+> Nov 24 | Programming Lab | [C Raw Sockets](c-raw-sockets.html) | 150 | Dec 10
 
 <!--
 > Sept 25 | Programming Lab | [Introduction to Sockets](sockets_intro.html) | 100 | Oct 05
@@ -23,7 +24,7 @@ This page links to individual labs. You **must** include screenshots with your s
 > Sept 28 | Programming Lab | Three Letter Match [tlm](tlm.md) | 200 | Oct 14
 > Sept 30 | Wireshark | [TCP](files/Wireshark_TCP_v8.1.pdf) and the [capture](files/tcp.pcapng) | 100 | Oct 16
 > Oct 21 | Wireshark | [DHCP](files/Wireshark_DHCP_v8.1.pdf) | 75 | Nov 02
-> Nov 24 | Programming Lab | [C Raw Sockets](c-raw-sockets.html) | 200 | Dec 11
+> Nov 24 | Programming Lab | [C Raw Sockets](c-raw-sockets.html) | 100 | Dec 11
 -->
 
 <!--

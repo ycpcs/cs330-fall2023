@@ -30,6 +30,7 @@ title: "Programming Assignment: Ping and Traceroute using C raw sockets"
   - [checksum.c](files/checksum.c)
 
 ### References
+  - [RFC 792](http://tools.ietf.org/html/rfc792)
   - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
   - [Linux socket interface](https://linux.die.net/man/2/socket). Don't forget to use SOCK_RAW type.
   - [Sends a message to a host](https://linux.die.net/man/3/sendto)
