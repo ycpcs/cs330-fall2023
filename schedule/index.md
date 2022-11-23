@@ -49,7 +49,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 13 | Nov 15 | Link Layer: [Multiple Access Links, ARP](slides/chapter_6.pdf) | CN: 6.3 - 6.4 |
 > 13 | Nov 17 | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf) | CN: 6.4 - 6.8 | | |
 > | | | |
-> 14 | Nov 22 | _ping_ and _traceroute_ using RAW sockets | | <!--[Raw C Sockets](../labs/c-raw-sockets.html)-->
+> 14 | Nov 22 | _ping_ and _traceroute_ using RAW sockets | | [Raw C Sockets](../labs/c-raw-sockets.html)
 > 14 | Nov 24 | **NO CLASS - Thanksgiving Break**
 > | | | |
 > 15 | Nov 29 |  Security in Computer Networks: [Cryptography, Encryption](slides/chapter_8.pdf) | CN: 8.1 - 8.3 |
