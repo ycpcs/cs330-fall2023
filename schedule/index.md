@@ -53,7 +53,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 14 | Nov 24 | **NO CLASS - Thanksgiving Break**
 > | | | |
 > 15 | Nov 29 |  Security in Computer Networks: [Cryptography, Encryption](slides/chapter_8.pdf) | CN: 8.1 - 8.3 |
-> 15 | Dec 01 | Security in Computer Networks: Authentication, [Digital Signatures](slides/chapter_4.pdf) | CN: 8.3 - 8.6 |
+> 15 | Dec 01 | Security in Computer Networks: Authentication, [Digital Signatures](slides/chapter_8.pdf) | CN: 8.3 - 8.6 |
 > | | | |
 > 16 | Dec 06 | **NO CLASSES - Reading Day**
 > 16 | Dec 08 | **FINAL EXAM** | CN: 1.1 - 8.9 | 6:30 PM - 8:30 PM
