@@ -66,7 +66,7 @@ All information about the course will be posted here.
 -->
 
 * **Dec 10** - Raw C Sockets: [ping & traceroute](labs/c-raw-sockets.html) Due
-* **Dec 08** - Final Exam @ 7:00 PM - 9:00 PM
+* **Dec 08** - Final Exam @ 6:00 PM - 8:00 PM
 * **Nov 03** - Exam 2 [Study Guide](exams/exam2_study_guide.html)
 * **Oct 30** - Three Letter Match Lab: [TLM](labs/tlm.html) Due
 * **Oct 16** - Wireshark Lab 5: [TCP](labs/files/Wireshark_TCP_v8.1.pdf) and the [capture](labs/files/tcp.pcapng)

@@ -56,7 +56,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 15 | Dec 01 | Security in Computer Networks: Authentication, [Digital Signatures](slides/chapter_8.pdf) | CN: 8.3 - 8.6 |
 > | | | |
 > 16 | Dec 06 | **NO CLASSES - Reading Day**
-> 16 | Dec 08 | **FINAL EXAM** | CN: 1.1 - 8.9 | 6:30 PM - 8:30 PM
+> 16 | Dec 08 | **FINAL EXAM** | CN: 1.1 - 8.9 | 6:00 PM - 8:00 PM
 
 <sup>*</sup> Optional Lab
 
