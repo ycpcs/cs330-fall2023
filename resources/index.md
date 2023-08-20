@@ -29,6 +29,7 @@ traffic on Windows. *Retired on November 25, 2019.*
   - netwox & netwag [Troubleshooting guide](docs\netwox.pdf).
 - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) is an open source Network Forensic Analysis Tool.
 - [tcptrace](https://linux.die.net/man/1/tcptrace) is a tool for analysis of TCP dump files.
+- [tcpflow](https://github.com/simsong/tcpflow) is a powerful command line based tool for analyzing network traffic. 
 
 Active Capture
 ------------------------------------
@@ -57,11 +58,13 @@ Web Testing (Web Proxies)
 - [mitmproxy](https://mitmproxy.org/) is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets.
 - [Charles](https://www.charlesproxy.com/) is an HTTP proxy, an HTTP.
 monitor, and a reverse proxy. It enables you to view HTTPS traffic.
-
+- [HTTrack](https://www.httrack.com/) website copier.
+- 
 Network Spoofing
 ------------------------------------
 - [Ettercap](https://www.ettercap-project.org/) is a man-in-the-middle tool designed to listen to network traffic between two devices.
 - [DNSMasq](https://thekelleys.org.uk/dnsmasq/doc.html) is designed to quickly set up basic network services, such as DNS and DHCP, so you don’t have to hassle with complex service configuration
+- [arpspoof](https://github.com/alandau/arpspoof) is a simple ARP spoofer for Windows.
 
 System Utilities
 ------------------------------------
@@ -80,6 +83,8 @@ Supplemental Material
 - [High Performance Browser Networking](https://hpbn.co/) is what every web developer should know about networking and web performance.
 - [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital.
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html)
+- [Principles of chaos engineering](https://principlesofchaos.org/)
+- [Programmable Web](https://www.programmableweb.com/) - retired. 
 
 Repositories
 -----------------------------------
