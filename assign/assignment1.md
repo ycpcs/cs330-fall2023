@@ -4,7 +4,7 @@ course_number: CS330
 title: "Assignment 1: Review Ethics Guide"
 ---
 
-**Due: Thursday, Aug 25 by 6:00 PM**
+**Due: Thursday, Aug 24, 2023 by 6:00 PM**
 
 ### Ethics Guide
 
