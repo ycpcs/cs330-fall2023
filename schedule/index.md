@@ -28,7 +28,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 >| 6 | 28-Sep | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf) | CN: 3.4 | Homework - Reliable Data Transfer |
 >|  |  |  |  |  |
 >| 7 | 3-Oct | Transport Layer: [TCP](slides/chapter_3.pdf) | CN: 3.5 | Wireshark Lab - TCP |
->| 7 | 5-Oct | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 | |
+>| 7 | 5-Oct | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 | Chapter 3 Homework |
 >|  |  |  |  |  |
 >| 8 | 10-Oct | NO CLASSES - Fall Break |  |  |
 >| 8 | 12-Oct | Network Layer: [Overview, Router Architectures](slides/chapter_4.pdf) | CN: 4.1 - 4.2 |  |
@@ -39,7 +39,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 >| 10 | 24-Oct | EXAM 2 | CN: 3.1 - 4.5 | Study Guide |
 >| 10 | 26-Oct | Network Layer: [Routing Algorithms](slides/chapter_5.pdf) & [Dijkstra's Algorithm](slides/dijkstra_algorithm.pdf) | CN: 5.1 - 5.2 |  |
 >|  |  |  |  |  |
->| 11 | 31-Oct | Network Layer: [Internet Routing](slides/chapter_5.pdf) | CN: 5.3 - 5.4 |  |
+>| 11 | 31-Oct | Network Layer: [Internet Routing](slides/chapter_5.pdf) | CN: 5.3 - 5.4 | Chapter 5 Homework |
 >| 11 | 2-Nov | Link Layer: [Link Layer Functions](slides/chapter_6.pdf) | CN 6.1 - 6.2 |  |
 >|  |  |  |  |  |
 >| 12 | 7-Nov | Link Layer: [Multiple Access Links, ARP](slides/chapter_6.pdf) | CN: 6.3 - 6.4 |  |
