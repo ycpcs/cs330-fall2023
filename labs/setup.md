@@ -18,7 +18,7 @@ using this image.
 We need to use `New` to create a new virtual machine.
 
 ![New](images/vm-new.png)
-![name](images/vm-new.png)
+![name](images/vm-name.png)
 ![virtual disk](images/vm-vh-disk.png)
 ![type](images/vm-vh-disk-type.png)
 ![storage](images/vm-vh-disk-storage.png)
@@ -82,4 +82,6 @@ and paste between the VM and the host computer The second item allows users to t
 
 ### Appendix B: Start the VM and Take Snapshot
 
-We can now start the VM. You can also use the `Take` button to take a snapshot of your VM. This way, if something goes wrong, you can roll back the state of your VM using the saved snapshots.
+We can now `Start` the VM. You can also use the `Take` button to take a snapshot of your VM. This way, if something goes wrong, you can roll back the state of your VM using the saved snapshots.
+
+![Start](images/vm-start-take.png)
