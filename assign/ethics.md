@@ -29,7 +29,7 @@ Understand what the law prohibits — you don’t want to end up like:
 - [Sarah Palin E-mail Prankster](https://www.wired.com/2010/11/palin-hacker-sentenced/) sentenced to 1 Year in Custody.
 - [Samy Kamkar](https://www.scmagazine.com/home/security-news/myspace-superworm-creator-sentenced-to-probation-community-service/) sentenced to three years' probation with only one computer and no use of internet, 90 days' community service, and $15,000–$20,000 USD in restitution.
 
-Please review the college’s policy on [Acceptable Use](https://service.ycp.edu/TDClient/219/Portal/KB/ArticleDet?ID=7381) for guidelines concerning proper use of information technology.
+Please review Ken Thomson's [Review on Trusting Trust](./files/Thompson_1984_ReflectionsonTrustingTrust.pdf) __and__ the college’s policy on [Acceptable Use](https://service.ycp.edu/TDClient/219/Portal/KB/ArticleDet?ID=7381) for guidelines concerning proper use of information technology.
 
 As a member of the College, you are required to abide by these policies.
 
