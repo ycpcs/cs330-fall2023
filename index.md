@@ -3,20 +3,23 @@ layout: default
 title: Home page
 ---
 
-# Welcome to CS 330, Fall 2022!
+# Welcome to CS 330, Fall 2023!
 
-This is the website for CS 330, Fall 2022 at York College.
+This is the website for CS 330, Fall 2023 at York College.
 All information about the course will be posted here.
 
 ## Links
 
 * [Syllabus](syllabus.html)
 * [Schedule](schedule/index.html)
-* [Assignments](assign/index.html)
-* [Labs](labs/index.html)
-* [Resources](resources/index.html)
 * [Ethics](assign/ethics.md)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
+
+<!-- 
+* [Assignments](assign/index.html)
+* [Labs](labs/index.html)
+* [Resources](resources/index.html) 
+-->
 
 ## News
 <!--
@@ -65,6 +68,7 @@ All information about the course will be posted here.
 * **Sept 30** - Wireshark Lab: [UDP](labs/files/Wireshark_UDP_v8.1.pdf) Due (_Optional_)
 -->
 
+<!--
 * **Dec 10** - Raw C Sockets: [ping & traceroute](labs/c-raw-sockets.html) Due
 * **Dec 08** - Final Exam @ 6:00 PM - 8:00 PM
 * **Nov 03** - Exam 2 [Study Guide](exams/exam2_study_guide.html)
@@ -78,5 +82,6 @@ All information about the course will be posted here.
 * **Sept 20** - Chapter 1 [Homework](assign/homework1.html) Due
 * **Sept 18** - Wireshark Lab: [HTTP](labs/files/Wireshark_HTTP_v8.1.pdf) Due
 * **Sept 01** - Wireshark Lab: [Getting Started](labs/files/Wireshark_Intro_v8.1.pdf) Due
-* **Aug 25** - Review Ethics Guide: [Ethics Guide](assign/assignment1.html) Due
-* **Aug 23** - Welcome back!
+  -->
+* **Aug 24** - Review Ethics Guide: [Ethics Guide](assign/assignment1.html) Due
+* **Aug 22** - Welcome back!

@@ -15,14 +15,14 @@ Suppose the client-to-server HTTP GET message contains the following headers:
 ```
 :authority: ycpcs.github.io
 :method: GET
-:path: /cs330-fall2022/schedule/index.html
+:path: /cs330-fall2023/schedule/index.html
 :scheme: https
 accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
 accept-encoding: gzip, deflate, br
 accept-language: en-us, en-gb;q=0.9, en;q=0.6, fr, fr-ch, zh, da, de, fi, cs
 cache-control: max-age=0
 dnt: 1
-if-modified-since: Wed, 15 Sep 2022 23:41:10 GMT
+if-modified-since: Wed, 15 Sep 2023 23:41:10 GMT
 if-none-match: W/"61428496-2bd0"
 sec-ch-ua: "Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"
 sec-ch-ua-mobile: ?0

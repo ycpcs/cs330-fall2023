@@ -6,15 +6,15 @@ title: Syllabus
 NETWORK APPLICATIONS AND PROTOCOLS
 ========================================
 
-**Fall 2022**
+**Fall 2023**
 
 Class times:
 
-- Section 801, T/Th 6:00PM - 7:15PM in KEC 119
+- Section 801, T/Th 6:00PM - 7:15PM in KEC 123
 
 Instructor:
 
-Galin Zhelezov, gzhelezo@ycp.edu <br /> Office hours: T 7:15PM-7:45PM in KEC 119; R 7:15PM-7:45PM in KEC 119; or by appointment
+Galin Zhelezov, gzhelezo@ycp.edu <br /> Office hours: T 7:15PM-7:45PM in KEC 123; R 7:15PM-7:45PM in KEC 123; or by appointment
 
 Course Description
 ------------------
@@ -49,11 +49,11 @@ Your overall grade for the course will be determined as follows:
 -   Attendance and Participation: 10%
 -   Programming exercises: 15%
 -   Labs and Homework: 15% <strong>(*)</strong>
--   Exams (2 midterms and 1 cumulative final exam): 60% <strong>(†)</strong>
+-   4 Exams: 60% <strong>(†)</strong>
 
 <p><strong>(*)</strong> You must demonstrate significant effort on all homework assignments in order to pass the course.</p>
 
-<p><strong>(†)</strong> You must pass (receive a grade of 70 or higher) on at least one exam, <em>and</em> have an average of 60 or higher on your two highest exam grades, in order to receive a passing grade for the course.</p>
+<p><strong>(†)</strong> You must pass (receive a grade of 70 or higher) on at least one exam, <em>and</em> have an average of 60 or higher on your three highest exam grades, in order to receive a passing grade for the course.</p>
 
 ### Grading scale
 
@@ -73,7 +73,7 @@ The grading scale for the course is given below. Please note that this grading s
 Course website
 -----------------
 
-Please check the course web page, <https://ycpcs.github.io/cs330-fall2022/>, regularly for important announcements.
+Please check the course web page, <https://ycpcs.github.io/cs330-fall2023/>, regularly for important announcements.
 
 Reading assignments
 -----------------
@@ -110,7 +110,7 @@ Programming Assignments will be graded based on the following criteria:
 Posting and submission of assignments and labs
 -----------------
 
-Assignments and labs will be posted on the course web page,  [https://ycpcs.github.io/cs330-fall2022/](<https://ycpcs.github.io/cs330-fall2022/>).
+Assignments and labs will be posted on the course web page,  [https://ycpcs.github.io/cs330-fall2023/](<https://ycpcs.github.io/cs330-fall2023/>).
 
 Assignments and labs will be submitted using the server <a href="https://cs.ycp.edu/marmoset/">https://cs.ycp.edu/marmoset/</a>. You will receive an email containing the username and password you will use for this server.
 
@@ -120,7 +120,7 @@ Exams
 <strong>Exams will be open-book, closed-notes.</strong> They will last approximately 60 minutes and will be administered at the beginning of the class period.
 
 <strong>Exams may include a programming component.</strong> The last half of the class may be used for instruction and/or laboratory work.
-<strong>A total of three exams will be administered. The lowest scoring exam will be dropped!</strong>
+<strong>A total of four exams will be administered.</strong>
 
 <strong>No make-up exams will be given without approval of the instructor prior to class unless proof of extreme emergency or illness is provided.</strong>
 

@@ -1,4 +1,4 @@
-baseurl: "//ycpcs.github.io/cs330-fall2022"
+baseurl: "//ycpcs.github.io/cs330-fall2023"
 markdown: kramdown
 highlighter: rouge
 coursename: "CS 330"
