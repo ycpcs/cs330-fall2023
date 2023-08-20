@@ -186,23 +186,20 @@ Auditing
 
 I expect some effort and commitment from students auditing the course. Therefore I require that you appear for all the labs and exams in the course. You are not required to turn in the programming assignments. Of course, you are welcome to do more, but you must meet this minimum requirement.
 
-Disability accommodation
+Student Accessibility Services
 -----------------
 
-If you had an IEP or 504 plan in high school or if you have a disability or health condition that impacts you in the classroom, please contact Linda Miller, Director of Disability Support Services, at 815-1785 or <lmille18@ycp.edu> to discuss obtaining the accommodations for which you may be eligible. If you already have an accommodation memo and wish to access your accommodations in this class, please see me confidentially to discuss.
+York College of Pennsylvania offers a variety of academic accommodations to students with documented disabilities to ensure their success. To request accommodations, please contact Student Accessibility Services at (717) 815.1717 or <sas@ycp.edu>. Student Accessibility Services will discuss the confidential process of requesting accessibility services and establish the accommodations for which the student is eligible.
 
 Advice
 -----------------
 
 - Don't wait until the last minute to start projects! The projects can be time-consuming. Pace yourself. Students who procrastinate generally suffer.
-
 - Ask the questions you have.
-
 - Participate actively in discussions! Don’t use slides to answer questions during class.
 
 Disclaimer
 -----------------
 
 The instructor reserves the right to modify all policies within this syllabus including, but not limited to, number of
-assignments, weighting of assignments, and homework policies. Any significant changes will be announced to all students
-via email.
+assignments, weighting of assignments, and homework policies. Any significant changes will be announced to all students.
