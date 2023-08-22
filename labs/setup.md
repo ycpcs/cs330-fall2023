@@ -91,3 +91,7 @@ We can now `Start` the VM. You can also use the `Take` button to take a snapshot
 - ```sudo apt upgrade``` - will upgrade all installed packages to their latest versions.
 - ```sudo apt-get autoremove``` - deletes orphaned packages, or dependencies that remain installed after you have installed an application and then deleted it.
 - ```sudo apt-get clean``` - removes all packages from the cache.
+
+#### Install Editors
+- Sublime: ```sudo snap install sublime-text --classic```  
+- Visual Studio Code: ```sudo snap install --classic code```
