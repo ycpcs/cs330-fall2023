@@ -22,3 +22,22 @@ title: "Lab - Notes"
 #### Install Python 
 - ```sudo apt-get install python3```
   - Run a webserver: ```python3 -m http.server 8000```
+
+#### File Commands and Directory Navigation
+
+- ```cd``` go to _$HOME_ directory.
+- ```cd ...``` go one level up the directory tree.
+- ```cd /etc``` to change to the _/etc_ directory.  
+- ```ls``` list all files.
+  - Use ```-R``` to list all-subdirectories as well
+  - ```-a``` will list hidden files as well
+  - Use the ```-al``` argument to view details
+- ```pwd``` lists the present working directory.
+- ```mkdir directory``` created a _directory_.
+- ```rm -r directory``` removes the _directory_ and its contents recursively. Use the ```f``` argument to forcefully remove, re: ```rm -rf directory```.
+- ```touch file``` will create an empty _file_.
+- ```rm file``` removes a _flle_.
+- ```cp file file2``` will copy _file_ to _file2_.
+- ```mv file file2``` renames or moves _file_ to _file2_.
+- ```cat filename``` will display the contests of _filename_.
+- ```cat > filename```  creates a new file with _filename_.
