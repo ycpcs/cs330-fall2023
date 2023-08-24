@@ -35,4 +35,6 @@ This page links to individual labs. You **must** include screenshots with your s
 > Nov 17 | Programming Lab | [Ping Pong](pingpong.html) | Nov 30
 -->
 
+[Notes](./notes.html) with some basic commands. 
+
 <sup>*</sup> Optional Lab
