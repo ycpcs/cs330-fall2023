@@ -7,7 +7,9 @@ This page links to individual labs. You **must** include screenshots with your s
 
 >  Date   | Lab | File(s) | Points | Due
 > ------- | --- | ------- | ---- | ----
-> Aug 25 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 01, 2022
+> Aug 29 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 05, 2023
+
+<!--
 > Sept 06 | Wireshark | [HTTP](files/Wireshark_HTTP_v8.1.pdf) | 100 | Sept 18, 2022
 > Sept 13 | Wireshark | [DNS](files/Wireshark_DNS_v8.1.pdf) | 100 | Sept 25, 2022
 > Sept 20 | Wireshark | [UDP](files/Wireshark_UDP_v8.1.pdf) <sup>*</sup> | 75 | Sept 30, 2022
@@ -17,7 +19,7 @@ This page links to individual labs. You **must** include screenshots with your s
 > Oct 13 | Programming Lab | [Three Letter Match](tlm.md) | 200 | Oct 30
 > Oct 25 | Wireshark | [DHCP](files/Wireshark_DHCP_v8.1.pdf) <sup>*</sup> | 75 | Nov 06
 > Nov 24 | Programming Lab | [C Raw Sockets](c-raw-sockets.html) | 150 | Dec 10
-
+-->
 <!--
 > Sept 25 | Programming Lab | [Introduction to Sockets](sockets_intro.html) | 100 | Oct 05
 > Sept 28 | Lab | [Reliable Data Transfer](rdt.html) | 75 | Oct 07
