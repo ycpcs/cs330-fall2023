@@ -41,3 +41,17 @@ title: "Lab - Notes"
 - ```mv file file2``` renames or moves _file_ to _file2_.
 - ```cat filename``` will display the contests of _filename_.
 - ```cat > filename```  creates a new file with _filename_.
+
+#### Networking
+
+- ```ifconfig -a``` displays all network interfaces and IP address.
+- ```hostname -I``` displays the IP addresses of the host (all local IP addresses).
+- ```host domain``` displays IP address for _domain_.
+- ```ping host``` sends ICMP echo request to _host_.
+- ```whois domain``` displays whois records for _domain_.
+- ```dig domain``` displays DNS information for _domain_.
+- ```dig -x IP``` does reverse lookup of _IP_ address.  
+- To display the IP/kernel routing table:
+  - ```netstat -rn```
+  - ```ip route```
+  - ```route -n```
