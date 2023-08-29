@@ -13,15 +13,13 @@ All information about the course will be posted here.
 * [Syllabus](syllabus.html)
 * [Schedule](schedule/index.html)
 * [Assignments](assign/index.html)
+* [Labs](labs/index.html)
 * [Lab Setup](labs/setup.html)
 * [Commands](labs/notes.html)
 * [Resources](resources/index.html) 
 * [Ethics](assign/ethics.md)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
-<!-- 
-* [Labs](labs/index.html)
--->
 
 ## News
 <!--
