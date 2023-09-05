@@ -3,6 +3,12 @@ layout: default
 course_number: CS330
 title: "Lab - Notes"
 ---
+- [Upgrade VM](#upgrade-vm)
+- [Setup Environment](#setup-environment)
+- [Install Wireshark](#install-wireshark)
+- [Install Python](#install-python)
+- [File Commands and Directory Navigation](#file-commands-and-directory-navigation)
+- [Networking](#networking)
 
 #### Upgrade VM 
 - ```sudo apt update``` - downloads package information from all configured sources.
@@ -10,10 +16,13 @@ title: "Lab - Notes"
 - ```sudo apt-get autoremove``` - deletes orphaned packages, or dependencies that remain installed after you have installed an application and then deleted it.
 - ```sudo apt-get clean``` - removes all packages from the cache.
 
-#### Install Editors
+#### Setup Environment
 - Sublime: ```sudo snap install sublime-text --classic```  
 - Visual Studio Code: ```sudo snap install --classic code```
-
+- clion: ```sudo snap install clion --classic```
+- GNU Development Tools Packages: ```sudo apt install build-essential gcc``` 
+- Install netcat: ```sudo apt-get install netcat```
+   
 #### Install Wireshark 
 - ```sudo apt-get install wireshark```
 - ```sudo dpkg-reconfigure wireshark-common```
