@@ -13,10 +13,10 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 >| 1 | 24-Aug | [Intro](slides/chapter_1.pdf) to Computer Networks and the Internet | CN: 1.1 - 1.4 |  |
 >|  |  |  |  |  |
 >| 2 | 29-Aug | [Intro](slides/chapter_1.pdf) to Computer Networks and the Internet | CN: 1.4 - 1.8 | Wireshark Lab - [Getting Started](../labs/files/Wireshark_Intro_v8.1.pdf) |
->| 2 | 31-Aug | Application Layer: [Overview](slides/chapter_2.pdf) | CN: 2.1 | Chapter 1 Homework |
+>| 2 | 31-Aug | Application Layer: [Overview](slides/chapter_2.pdf) | CN: 2.1 | <s>Chapter 1 Homework</s> |
 >|  |  |  |  |  |
 >| 3 | 5-Sep | Application Layer: [Socket Programming](slides/chapter_2.pdf) | CN: 2.7 |  |
->| 3 | 7-Sep | Application Layer: [HTTP](slides/chapter_2.pdf) | CN: 2.1 - 2.2 | Wireshark Lab - HTTP |
+>| 3 | 7-Sep | Application Layer: [HTTP](slides/chapter_2.pdf) | CN: 2.1 - 2.2 | Wireshark Lab -[HTTP](../labs/files/Wireshark_HTTP_v8.1.pdf) |
 >|  |  |  |  |  |
 >| 4 | 12-Sep | Application Layer: [SMTP & DNS](slides/chapter_2.pdf) | CN: 2.3 - 2.4 | Wireshark Lab - DNS |
 >| 4 | 14-Sep | Application Layer: [P2P, CDN](slides/chapter_2.pdf) | CN: 2.5 - 2.6 | torrenting.pcap, ftp.pcapng, CS vs P2P xlsx |
