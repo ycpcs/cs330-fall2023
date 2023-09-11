@@ -4,19 +4,19 @@ course_number: CS330
 title: "Exam 1 - Study Guide"
 ---
 
-Exam 1 - Oct 06, 2022
+Exam 1 - Sept 14, 2023
 -----------------------
 
 ### Study Guide:
-- Study the advantages and disadvantages of circuit and packet switching.   
+- Study the advantages and disadvantages of circuit and packet switching.
 - Know all types of delays in routers.
 - Know how packet loss occur.
 - Recognize what TCP/IP Model layers are used by different computer/network devices - know the layers of the TCP/IP network model used in switches, routers and computer hosts.
 - Know the difference between a dedicated link and shared link to an ISP.
 - Know different security attacks and malware.
 - Identify the advantages and disadvantages of client-server and peer-to-peer networks.
-- Know what is a socket, characteristics associated with UDP and TCP socket.
-- Know about different services TCP and UDP provide. How are those achieved.
+- Know what is a socket.
+- Know about different services TCP and UDP provide.
 - Know about cookies.
 - Tell the benefits of single and distributed DNS servers.
 - Know the common protocol and ports for: dns, dns secure, ftp, http, http secure, imap, imap secure, pop3, pop3 secure, smtp, smtp secure:
