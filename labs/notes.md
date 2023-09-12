@@ -59,7 +59,8 @@ title: "Lab - Notes"
 - ```ping host``` sends ICMP echo request to _host_.
 - ```whois domain``` displays whois records for _domain_.
 - ```dig domain``` displays DNS information for _domain_.
-- ```dig -x IP``` does reverse lookup of _IP_ address.  
+- ```dig -x IP``` does reverse lookup of _IP_ address.
+- ```nslookup``` query Internet name servers interactively.
 - To display the IP/kernel routing table:
   - ```netstat -rn```
   - ```ip route```
