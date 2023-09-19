@@ -82,6 +82,7 @@ All information about the course will be posted here.
   -->
 
 * **Sept 21** - Wireshark Lab: [DNS](labs/files/Wireshark_DNS_v8.1.pdf) Due
+* **Sept 19** - Exam 1 [Study Guide](exams/exam1_study_guide.html)
 * **Sept 19** - Wireshark Lab: [HTTP](labs/files/Wireshark_HTTP_v8.1.pdf) Due
 * **Sept 05** - Wireshark Lab: [Getting Started](labs/files/Wireshark_Intro_v8.1.pdf) Due
 * **Aug 24** - Review Ethics Guide: [Ethics Guide](assign/assignment1.html) Due
