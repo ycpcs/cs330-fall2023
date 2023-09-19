@@ -4,7 +4,7 @@ course_number: CS330
 title: "Exam 1 - Study Guide"
 ---
 
-Exam 1 - Sept 14, 2023
+Exam 1 - Sept 19, 2023
 -----------------------
 
 ### Study Guide:
