@@ -19,7 +19,7 @@ Exam 1 - Sept 19, 2023
 - Know about different services TCP and UDP provide.
 - Know about cookies.
 - Tell the benefits of single and distributed DNS servers.
-- Know the common protocol and ports for: dns, dns secure, ftp, http, http secure, imap, imap secure, pop3, pop3 secure, smtp, smtp secure:
+- Understand the common protocols and know the ports for: dns, dns secure, ftp, http, http secure, imap, imap secure, pop3, pop3 secure, smtp, smtp secure:
   - HTTP: 80
   - HTTPS: 443
   - DNS: 53
