@@ -10,10 +10,10 @@ This page links to individual labs. You **must** include screenshots with your s
 > Aug 29 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 05, 2023
 > Sept 07 | Wireshark | [HTTP](files/Wireshark_HTTP_v8.1.pdf) | 100 | Sept 19, 2023
 > Sept 12 | Wireshark | [DNS](files/Wireshark_DNS_v8.1.pdf) | 100 | Sept 21, 2023
-> 
+> Sept 26 | Programming Lab | [Introduction to Sockets](sockets_intro.html) | 150 | Oct 05, 2023
+
 <!--
 > Sept 20 | Wireshark | [UDP](files/Wireshark_UDP_v8.1.pdf) <sup>*</sup> | 75 | Sept 30, 2022
-> Sept 22 | Programming Lab | [Introduction to Sockets](sockets_intro.html) | 150 | Oct 06, 2022
 > Sept 27 | Lab | [Reliable Data Transfer](rdt.html) | 75 | Oct 09, 2022
 > Sept 29 | Wireshark | [TCP](files/Wireshark_TCP_v8.1.pdf) and the [capture](files/tcp.pcapng) | 100 | Oct 16, 2022
 > Oct 13 | Programming Lab | [Three Letter Match](tlm.md) | 200 | Oct 30
