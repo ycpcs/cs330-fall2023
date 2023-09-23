@@ -44,7 +44,7 @@ void main()
                  (struct sockaddr *)&client,
                  &sockaddr_size);
 
-        printf("%s\n", msg);
+        printf("%s:%i - %s\n", inet_ntoa(client.sin_addr), ntohs(client.sin_port), msg);
 
         for (int i = 0; i < sizeof(msg); i++)
         {

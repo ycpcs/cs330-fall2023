@@ -8,21 +8,26 @@
 #include <ctype.h>
 
 void main()
-{
-    struct sockaddr_in server;
-    struct sockaddr_in client;
-    int sockaddr_size = sizeof(struct sockaddr_in);
-
+{   
     int sock;
     if ((sock = socket(PF_INET, SOCK_STREAM, 0)) < 0)
     {
         perror("Socket error\n");
         return;
     }
+    
+    int reuse = 1;
+    if (setsockopt(sock, SOL_SOCKET, SO_REUSEADDR, &reuse, sizeof(reuse)) == -1) {
+        perror("setsockopt error\n");
+        return;
+    }
 
+    struct sockaddr_in server;
+    struct sockaddr_in client;
+    int sockaddr_size = sizeof(struct sockaddr_in);
     memset(&server, 0x00, sizeof(server));
 
-    server.sin_family = AF_INET; // IPv4
+    server.sin_family = AF_INET;
     server.sin_addr.s_addr = htonl(INADDR_ANY);
     server.sin_port = htons(8080);
 
@@ -43,10 +48,12 @@ void main()
         int client_sock = accept(sock, (struct sockaddr *)&client, &sockaddr_size);
         printf("Connected to %s:%i\n", inet_ntoa(client.sin_addr), ntohs(client.sin_port));
 
-        recv(client_sock,
-             msg,
-             sizeof(msg) - 1,
-             0);
+        if (recv(client_sock, msg, sizeof(msg) - 1, 0) < 0)
+        {
+            perror("Receive failure\n");
+            close(client_sock);
+            continue;
+        }
 
         printf("%s\n", msg);
 
@@ -55,12 +62,12 @@ void main()
             msg[i] = toupper(msg[i]);
         }
 
-        sendto(client_sock,
-               msg,
-               strlen(msg),
-               0,
-               (struct sockaddr *)&client,
-               sockaddr_size);
+        if (sendto(client_sock, msg, strlen(msg), 0, (struct sockaddr *)&client, sockaddr_size) < 0)
+        {
+            perror("Send failure\n");
+            close(client_sock);
+            continue;
+        }
 
         close(client_sock);
     }

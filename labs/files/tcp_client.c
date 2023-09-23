@@ -30,17 +30,29 @@ void main()
     if (connect(sock, (struct sockaddr *)&dest, sockaddr_size) < 0)
     {
         perror("Connection failure\n");
+        close(sock);
         return;
     }
 
-    send(sock, send_msg, strlen(send_msg), 0);
+    if (send(sock, send_msg, strlen(send_msg), 0) < 0)
+    {
+        perror("Send failure\n");
+        close(sock);
+        return;
+    }
+
     printf("Message sent. Waiting to hear back from server ....\n");
 
     char recv_msg[50];
     memset(recv_msg, 0x00, sizeof(recv_msg));
 
-    recv(sock, recv_msg, sizeof(recv_msg), 0);
-    printf("%s\n", recv_msg);
+    if (recv(sock, recv_msg, sizeof(recv_msg), 0) < 0)
+    {
+        perror("Receive failure\n");
+        close(sock);
+        return;
+    }
 
+    printf("%s\n", recv_msg);
     close(sock);
 }
