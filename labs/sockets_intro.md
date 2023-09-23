@@ -12,11 +12,12 @@ title: "Programming Lab - Introduction to Sockets"
   - [tcp_server.c](files/tcp_server.c)
   - [udp_server.c](files/udp_server.c)
 
-- Compile with: ```gcc tcp_client.c -o tcp_client```
-- Run with: ```./tcp_client```
+- Example:
+  - Compile with: ```gcc tcp_client.c -o tcp_client```
+  - Run with: ```./tcp_client```
 
 ### We use the following simple client/server applications do demonstrate UDP and TCP socket programming.
-  - A client reads a line from its standard input and sends the line out its socket to the server.
+  - A client reads a line from its standard input and sends the line out via its socket to the server.
   - The server reads a line from its socket.
   - The server converts the line to uppercase.
   - The server sends the modified line out its socket to the client.
@@ -35,8 +36,6 @@ title: "Programming Lab - Introduction to Sockets"
     - What happens?
     - Why?
     - Fix it.
-  - Update `tcp_client`, `udp_client`, `tcp_server` and `udp_server` to accept the **client and server** port numbers as an _user_ input.
-  - Update `tcp_client` and `udp_client` to accept the **server** IP Address as an _user_ input.
   - Change the _send_msg_ in `udp_client` to allocate 5 bytes instead of 50. Run the `udp_client` and the `udp_server` – send a message with length more than 5.
     - What happens?
     - Why?
@@ -44,9 +43,11 @@ title: "Programming Lab - Introduction to Sockets"
     - What do you expect will happen?
     - What happens?  
     - Why?
+  - Update `tcp_client`, `udp_client`, `tcp_server` and `udp_server` to accept the **client and server** port numbers as an _user_ input.
+  - Update `tcp_client` and `udp_client` to accept the **server** IP Address as an _user_ input.  
   - Update `tcp_server` to support multiple clients.
-  - _Extra Credit_ Experiment with the code and surprise me.
-    - Do not be afraid to explore and break it. Learn from it.  
+  - _Extra Credit_:  
+    - Experiment with the code and surprise me. Do not be afraid to explore and break it. Learn from it.  
 
 ### References
   - [Linux socket interface](https://linux.die.net/man/7/socket)
@@ -54,7 +55,7 @@ title: "Programming Lab - Introduction to Sockets"
   - [Debugging with GDB](https://ftp.gnu.org/old-gnu/Manuals/gdb/html_node/gdb_toc.html)
 
 ### Testing
-  - [Netcat](http://netcat.sourceforge.net/) is a command line tool that connects to an arbitrary TCP or UDP port and allows you to send and receive data.
+  - [Netcat](http://netcat.sourceforge.net/) is a command line tool that connects to an arbitrary TCP or UDP port and allows you to send and receive data.    
 
 ### Grading
 Post your report __including source__ in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.

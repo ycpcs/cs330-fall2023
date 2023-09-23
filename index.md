@@ -75,12 +75,12 @@ All information about the course will be posted here.
 * **Oct 16** - Wireshark Lab 5: [TCP](labs/files/Wireshark_TCP_v8.1.pdf) and the [capture](labs/files/tcp.pcapng)
 * **Oct 09** - Reliable Data Transfer Lab: [RDT](labs/rdt.html) Due  
 * **Oct 06** - Exam 1 [Study Guide](exams/exam1_study_guide.html)
-* **Oct 06** - Introduction to Sockets Lab: [sockets_intro](labs/sockets_intro.html) Due
 * **Oct 02** - Chapter 2 [Homework](assign/homework2.html) Due
 * **Sept 25** - Wireshark Lab: [DNS](labs/files/Wireshark_DNS_v8.1.pdf) Due
 * **Sept 20** - Chapter 1 [Homework](assign/homework1.html) Due
   -->
 
+* **Oct 05** - Introduction to Sockets Lab: [sockets_intro](labs/sockets_intro.html) Due
 * **Sept 21** - Wireshark Lab: [DNS](labs/files/Wireshark_DNS_v8.1.pdf) Due
 * **Sept 19** - Exam 1 [Study Guide](exams/exam1_study_guide.html)
 * **Sept 19** - Wireshark Lab: [HTTP](labs/files/Wireshark_HTTP_v8.1.pdf) Due
