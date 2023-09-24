@@ -59,7 +59,9 @@ title: "Programming Lab - Introduction to Sockets"
   - [Debugging with GDB](https://ftp.gnu.org/old-gnu/Manuals/gdb/html_node/gdb_toc.html)
 
 ### Testing
-  - [Netcat](http://netcat.sourceforge.net/) is a command line tool that connects to an arbitrary TCP or UDP port and allows you to send and receive data.    
+  - [Netcat](http://netcat.sourceforge.net/) is a command line tool that connects to an arbitrary TCP or UDP port and allows you to send and receive data.
+  - To see what TCP ports are in use: ```netstat -antop```, for UDP: ```netstat -anoup```
+  - To kill a process: ```kill PID``` or ```pkill PATTERN```
 
 ### Grading
 Post your report __including source__ in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
