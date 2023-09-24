@@ -43,11 +43,15 @@ title: "Programming Lab - Introduction to Sockets"
     - What do you expect will happen?
     - What happens?  
     - Why?
+
+### Programming: 
   - Update `tcp_client`, `udp_client`, `tcp_server` and `udp_server` to accept the **client and server** port numbers as an _user_ input.
-  - Update `tcp_client` and `udp_client` to accept the **server** IP Address as an _user_ input.  
+  - Update `tcp_client` and `udp_client` to accept the **server** IP Address as an _user_ input.
+  - Make changes to allow the clients to continuously send messages until a QUIT command is entered.
+ 
+### Extra Credit:  
   - Update `tcp_server` to support multiple clients.
-  - _Extra Credit_:  
-    - Experiment with the code and surprise me. Do not be afraid to explore and break it. Learn from it.  
+  - Experiment with the code and surprise me. Do not be afraid to explore and break it. Learn from it.  
 
 ### References
   - [Linux socket interface](https://linux.die.net/man/7/socket)
