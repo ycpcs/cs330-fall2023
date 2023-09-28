@@ -7,7 +7,7 @@ title: "Lab - Reliable Data Transfer"
 # Lab - Reliable Data Transfer   
 
 ###  Problem 1.
-Visit the Chapter 3 - _Go-Back-N Protocol_ Java applet at the companion [Web site](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198702.cw/index.html). Make sure to read the instructions first at the top of the page.
+Visit the Chapter 3 - _Go-Back-N Protocol_ Java applet at the companion [Web site](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/content/interactiveanimations/go-back-n-protocol/index.html). Make sure to read the instructions first at the top of the page.
 
 - Have the source send five packets, and then pause the animation before any of the five packets reach the destination. Then kill the first packet and resume the animation. Describe what happens.
 
@@ -18,7 +18,9 @@ Visit the Chapter 3 - _Go-Back-N Protocol_ Java applet at the companion [Web sit
 - Finally, try sending six packets. What happens?
 
 ### Problem 2.
-- Repeat Problem 1 (all questions), but now with the Chapter 3 - _Selective Repeat Protocol_ Java applet.
+- Repeat Problem 1 (all questions), but now with [Selective Repeat Protocol](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/content/interactiveanimations/selective-repeat-protocol/index.html).
+
+### Problem 3.
 - List how are Selective Repeat and Go-Back-N different?
 
 ### Grading
