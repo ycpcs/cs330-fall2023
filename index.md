@@ -80,6 +80,7 @@ All information about the course will be posted here.
 * **Sept 20** - Chapter 1 [Homework](assign/homework1.html) Due
   -->
 
+* **Oct 26** - Three Letter Match Lab: [TLM](labs/tlm.html) Due
 * **Oct 17** - Wireshark Lab: [TCP](labs/files/Wireshark_TCP_v8.1.pdf)
 * **Oct 10** - Reliable Data Transfer Lab: [RDT](labs/rdt.html) Due 
 * **Oct 05** - Introduction to Sockets Lab: [sockets_intro](labs/sockets_intro.html) Due
