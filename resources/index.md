@@ -178,7 +178,7 @@ Technical Documentation
   - [RFC 2460](https://tools.ietf.org/html/rfc2460), Internet Protocol, Version 6 (IPv6) Specification
   - [RFC 2473](https://tools.ietf.org/html/rfc2473), Generic Packet Tunneling in IPv6 Specification
   - [RFC 2474](https://tools.ietf.org/html/rfc2474), Definition of the Differentiated Services Field (DS Field) in the IPv4 and IPv6 Headers
-  - [RFC 2474](https://tools.ietf.org/html/rfc2475), An Architecture for Differentiated Services
+  - [RFC 2475](https://tools.ietf.org/html/rfc2475), An Architecture for Differentiated Services
   - [RFC 3056](https://tools.ietf.org/html/rfc3056), Connection of IPv6 Domains via IPv4 Clouds (6to4)
   - [RFC 3439](https://tools.ietf.org/html/rfc3439), Some Internet Architectural Guidelines and Philosophy
   - [RFC 4380](https://tools.ietf.org/html/rfc4380), Teredo: Tunneling IPv6 over UDP
