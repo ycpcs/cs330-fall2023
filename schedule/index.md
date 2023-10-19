@@ -10,10 +10,10 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 >| Week | Date | Topic | Readings | Assignments |
 >|---|---|---|---|---|
 >| 1 | 22-Aug | Introduction and Course Overview |  | Ethics |
->| 1 | 24-Aug | [Intro](slides/chapter_1.pdf) to Computer Networks and the Internet | CN: 1.1 - 1.4 |  |
+>| 1 | 24-Aug | [Intro](slides/chapter_1.pdf) to Computer Networks and the Internet | CN: 1.1 - 1.4 | |
 >|  |  |  |  |  |
 >| 2 | 29-Aug | [Intro](slides/chapter_1.pdf) to Computer Networks and the Internet | CN: 1.4 - 1.8 | Wireshark Lab - [Getting Started](../labs/files/Wireshark_Intro_v8.1.pdf) |
->| 2 | 31-Aug | Application Layer: [Overview](slides/chapter_2.pdf) | CN: 2.1 | <s>Chapter 1 Homework</s> |
+>| 2 | 31-Aug | Application Layer: [Overview](slides/chapter_2.pdf) | CN: 2.1 | |
 >|  |  |  |  |  |
 >| 3 | 5-Sep | Application Layer: [Socket Programming](slides/chapter_2.pdf) | CN: 2.7 |  |
 >| 3 | 7-Sep | Application Layer: [HTTP](slides/chapter_2.pdf) | CN: 2.1 - 2.2 | Wireshark Lab - [HTTP](../labs/files/Wireshark_HTTP_v8.1.pdf) |
@@ -28,12 +28,12 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 >| 6 | 28-Sep | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf) | CN: 3.4 | Homework - [Reliable Data Transfer](../labs/rdt.html) |
 >|  |  |  |  |  |
 >| 7 | 3-Oct | Transport Layer: [TCP](slides/chapter_3.pdf) | CN: 3.5 | Wireshark Lab - [TCP]((../labs/files/Wireshark_TCP_v8.1.pdf)) |
->| 7 | 5-Oct | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 | Chapter 3 Homework |
+>| 7 | 5-Oct | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 | |
 >|  |  |  |  |  |
 >| 8 | 10-Oct | NO CLASSES - Fall Break |  |  |
->| 8 | 12-Oct | Network Layer: [Overview, Router Architectures](slides/chapter_4.pdf) | CN: 4.1 - 4.2 |  |
+>| 8 | 12-Oct | Network Layer: [Overview, Router Architectures](slides/chapter_4.pdf) | CN: 4.1 - 4.2 | |
 >|  |  |  |  |  |
->| 9 | 17-Oct | Network Layer: [IPv4, DHCP](slides/chapter_4.pdf), fragmented capture [example](files\mtu.pcapng) | CN: 4.3 | Wireshark Lab - DHCP |
+>| 9 | 17-Oct | Network Layer: [IPv4, DHCP](slides/chapter_4.pdf), fragmented capture [example](files\mtu.pcapng) | CN: 4.3 |  |
 >| 9 | 19-Oct | Network Layer: [IPv6, NAT](slides/chapter_4.pdf), [teredo](files\teredo.pcap), [6to4](files\6to4.pcap) | CN: 4.3 - 4.5 | |
 >|  |  |  |  |  |
 >| 10 | 24-Oct | EXAM 2 | CN: 3.1 - 4.5 | [Study Guide](../exams/exam2_study_guide.html) |
