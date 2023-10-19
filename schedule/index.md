@@ -36,7 +36,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 >| 9 | 17-Oct | Network Layer: [IPv4, DHCP](slides/chapter_4.pdf), fragmented capture [example](files\mtu.pcapng) | CN: 4.3 | Wireshark Lab - DHCP |
 >| 9 | 19-Oct | Network Layer: [IPv6, NAT](slides/chapter_4.pdf), [teredo](files\teredo.pcap), [6to4](files\6to4.pcap) | CN: 4.3 - 4.5 | |
 >|  |  |  |  |  |
->| 10 | 24-Oct | EXAM 2 | CN: 3.1 - 4.5 | Study Guide |
+>| 10 | 24-Oct | EXAM 2 | CN: 3.1 - 4.5 | [Study Guide](../exams/exam2_study_guide.html) |
 >| 10 | 26-Oct | Network Layer: [Routing Algorithms](slides/chapter_5.pdf) & [Dijkstra's Algorithm](slides/dijkstra_algorithm.pdf) | CN: 5.1 - 5.2 |  |
 >|  |  |  |  |  |
 >| 11 | 31-Oct | Network Layer: [Internet Routing](slides/chapter_5.pdf) | CN: 5.3 - 5.4 |  |

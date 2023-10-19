@@ -81,6 +81,7 @@ All information about the course will be posted here.
   -->
 
 * **Oct 26** - Three Letter Match Lab: [TLM](labs/tlm.html) Due
+* **Oct 24** - Exam 2 [Study Guide](exams/exam2_study_guide.html)
 * **Oct 17** - Wireshark Lab: [TCP](labs/files/Wireshark_TCP_v8.1.pdf)
 * **Oct 10** - Reliable Data Transfer Lab: [RDT](labs/rdt.html) Due 
 * **Oct 05** - Introduction to Sockets Lab: [sockets_intro](labs/sockets_intro.html) Due
