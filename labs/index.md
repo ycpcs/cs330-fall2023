@@ -14,6 +14,7 @@ This page links to individual labs. You **must** include screenshots with your s
 > Sept 28 | Visual | [Reliable Data Transfer](rdt.html) | 75 | Oct 10, 2023
 > Oct 05 | Wireshark | [TCP](files/Wireshark_TCP_v8.1.pdf) | 100 | Oct 17, 2023
 > Oct 05 | Programming | [Three Letter Match](tlm.md) | 200 | Oct 26, 2023
+> Oct 19 | Wireshark | [IP](files/Wireshark_IP_v8.1.pdf) | 100 | Oct 31, 2023
 
 <!--
 > Sept 20 | Wireshark | [UDP](files/Wireshark_UDP_v8.1.pdf) <sup>*</sup> | 75 | Sept 30, 2022

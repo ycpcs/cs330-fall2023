@@ -80,6 +80,7 @@ All information about the course will be posted here.
 * **Sept 20** - Chapter 1 [Homework](assign/homework1.html) Due
   -->
 
+* **Oct 31** - Wireshark Lab: [IP](labs/files/Wireshark_IP_v8.1.pdf) Due
 * **Oct 26** - Three Letter Match Lab: [TLM](labs/tlm.html) Due
 * **Oct 24** - Exam 2 [Study Guide](exams/exam2_study_guide.html)
 * **Oct 17** - Wireshark Lab: [TCP](labs/files/Wireshark_TCP_v8.1.pdf)
