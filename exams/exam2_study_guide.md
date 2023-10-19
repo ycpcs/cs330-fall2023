@@ -9,7 +9,6 @@ Exam 2 - Oct 24, 2023
 
 ### Study Guide:
 
-#### Network Layer
 - Know what is a socket, characteristics associated with UDP and TCP socket.
 - Know about different services TCP and UDP provide. How are those achieved.
 - Understand what services are provided by the Network Layer Protocol.
