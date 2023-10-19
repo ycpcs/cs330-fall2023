@@ -4,7 +4,7 @@ course_number: CS330
 title: "Exam 2 - Study Guide"
 ---
 
-Exam 2 - Nov 16, 2021
+Exam 2 - Oct 24, 2023
 -----------------------
 
 ### Study Guide:
