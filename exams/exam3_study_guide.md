@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS330
-title: "Exam 2 - Study Guide"
+title: "Exam 3 - Study Guide"
 ---
 
 Exam 3 - Nov 16, 2023
