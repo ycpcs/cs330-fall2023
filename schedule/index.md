@@ -46,7 +46,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 >| 12 | 9-Nov | Link Layer: [Multiple Access Links, ARP](slides/chapter_6.pdf) | CN: 6.3 - 6.4 |  |
 >|  |  |  |  |  |
 >| 13 | 14-Nov | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf) | CN: 6.4 - 6.8 |  |
->| 13 | 16-Nov | EXAM 3 | CN: 5.1 - 6.8 | Study Guide |
+>| 13 | 16-Nov | EXAM 3 | CN: 5.1 - 6.8 | [Study Guide](../exams/exam3_study_guide.html) |
 >|  |  |  |  |  |
 >| 14 | 21-Nov | ping and traceroute using RAW sockets | Raw Sockets |  |
 >| 14 | 23-Nov | NO CLASS - Thanksgiving Break |  |  |
