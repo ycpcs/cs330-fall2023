@@ -46,3 +46,8 @@ You may work on this assignment in pairs. If you work in pairs: Submit only ONE 
 
 ### Grading
 Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
+
+<!-- 
+cat words.txt | perl -nlE '$_=lc; $l=length; next if $l < 3; m/(.{3,$l})(?{ $freq{$1}++ })^/; END { say "$freq{$_} $_" for keys %freq }' | sort -rg | head -10
+ -->
+
