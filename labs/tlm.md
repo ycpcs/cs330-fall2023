@@ -50,6 +50,7 @@ Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by 
 - Readme File
 - Compile 
 - Run
+  - Menu
   - Set -> Submit -> List -> Quit
   - Consecutive runs (Set after List)
   - Correct Score
