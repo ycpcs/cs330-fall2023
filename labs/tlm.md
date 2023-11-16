@@ -47,7 +47,26 @@ You may work on this assignment in pairs. If you work in pairs: Submit only ONE 
 ### Grading
 Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
 
+- Readme File
+- Compile 
+- Run
+  - Set -> Submit -> List -> Quit
+  - Consecutive runs (Set after List)
+  - Correct Score
+- Multiple Clients 
+- Buffer Sizes < 512
+- Basic Error Handling 
+  - Set with fewer than 3 characters
+  - Set with more than 3 characters
+  - Multiple Set Commands
+  - Submit after List
+  - Submit the same word multiple times
+- Test with _ate_ substring
+
+
 <!-- 
+
 cat words.txt | perl -nlE '$_=lc; $l=length; next if $l < 3; m/(.{3,$l})(?{ $freq{$1}++ })^/; END { say "$freq{$_} $_" for keys %freq }' | sort -rg | head -10
+
  -->
 
