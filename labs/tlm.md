@@ -64,7 +64,7 @@ Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by 
   - Submit after List
   - Submit the same word multiple times
 - Test with _ate_ substring
-
+- Client shouldn't know about the _words.txt_ file
 
 <!-- 
 
