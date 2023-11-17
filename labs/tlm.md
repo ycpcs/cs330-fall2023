@@ -59,6 +59,7 @@ Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by 
 - Basic Error Handling 
   - Set with fewer than 3 characters
   - Set with more than 3 characters
+  - Set with invalid substring
   - Multiple Set Commands
   - Submit after List
   - Submit the same word multiple times
