@@ -28,6 +28,7 @@ title: "Programming Assignment: Ping and Traceroute using C raw sockets"
 
 ### Code snippets
   - [checksum.c](files/checksum.c)
+  - [get_host.c](files/get_host.c)
 
 ### References
   - [RFC 792](http://tools.ietf.org/html/rfc792)
