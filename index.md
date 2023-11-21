@@ -68,7 +68,6 @@ All information about the course will be posted here.
 -->
 
 <!--
-* **Dec 10** - Raw C Sockets: [ping & traceroute](labs/c-raw-sockets.html) Due
 * **Dec 08** - Final Exam @ 6:00 PM - 8:00 PM
 * **Nov 03** - Exam 2 [Study Guide](exams/exam2_study_guide.html)
 * **Oct 30** - Three Letter Match Lab: [TLM](labs/tlm.html) Due
@@ -80,7 +79,8 @@ All information about the course will be posted here.
 * **Sept 20** - Chapter 1 [Homework](assign/homework1.html) Due
   -->
 
-* **Nov 14** - Exam 3 [Study Guide](exams/exam3_study_guide.html)
+* **Dec 09** - Raw C Sockets: [ping & traceroute](labs/c-raw-sockets.html) Due
+* **Nov 16** - Exam 3 [Study Guide](exams/exam3_study_guide.html)
 * **Oct 31** - Wireshark Lab: [IP](labs/files/Wireshark_IP_v8.1.pdf) Due
 * **Oct 26** - Three Letter Match Lab: [TLM](labs/tlm.html) Due
 * **Oct 24** - Exam 2 [Study Guide](exams/exam2_study_guide.html)
