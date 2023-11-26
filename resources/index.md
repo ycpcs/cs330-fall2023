@@ -18,6 +18,7 @@ Passive Capture
 ------------------------------------
 - [Wireshark](https://www.wireshark.org/) is the most popular tool for passive packet capture and analysis.
     - [Sample Captures](https://gitlab.com/wireshark/wireshark/-/wikis/SampleCaptures)
+    - [Filter Manual Pages](https://www.wireshark.org/docs/man-pages/wireshark-filter.html)
 - [Microsoft Message Analyzer](https://docs.microsoft.com/en-us/message-analyzer/microsoft-message-analyzer-operating-guide) is an extensible tool for analyzing network.
 traffic on Windows. *Retired on November 25, 2019.*
 - [TCPDump & libpcap](http://www.tcpdump.org/) is a powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture, and it's windows implementation [WinPcap](https://www.winpcap.org/).
